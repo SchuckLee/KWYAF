@@ -16,7 +16,16 @@ This repository contains the official PyTorch implementation of the **KWYAF** fr
 If you have any questions or feedback, feel free to open an issue or contact us via email. 😊
 
 ---
+### License
+This project is only for academic use.
 
+### Acknowledgement
+The code is heavily based on the following repositories:
+- https://github.com/open-mmlab/mmsegmentation
+- https://github.com/NVlabs/SegFormer
+- https://github.com/GuoleiSun/VSS-CFFM
+
+Thanks for their amazing works.
 ### 📌 Citation
 
 If you find our work helpful, please consider citing us:
@@ -31,3 +40,6 @@ If you find our work helpful, please consider citing us:
   pages={4806--4814},
   year={2025}
 }
+```
+### Contact
+- Ke Li, toKeLi@emails.bjut.edu.cn
