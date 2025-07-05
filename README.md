@@ -11,7 +11,7 @@ Accepted at AAAI 2025 🎉
 This repository contains the official PyTorch implementation of the **KWYAF** framework for event-based semantic segmentation.  
 
 
-🗓️ **Code and full documentation will be released in May or June 2025**. Stay tuned!
+🗓️ **Code and full documentation will be released in July or August 2025**. Stay tuned!
 
 If you have any questions or feedback, feel free to open an issue or contact us via email. 😊
 
