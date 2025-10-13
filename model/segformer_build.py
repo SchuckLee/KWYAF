@@ -94,7 +94,7 @@ class EncoderDecoder(nn.Module):
             num_classes=150,
             norm_cfg=norm_cfg,
             align_corners=False,
-            decoder_params=dict(embed_dim=256,depths = 1),  # change this to replace MiT backbone (256/168)
+            decoder_params=dict(embed_dim=256,depths = 1),  # change this to replace MiT backbone (256/768)
             loss_decode=dict(type='CrossEntropyLoss', use_sigmoid=False, loss_weight=1.0),
             num_clips = 4
             )
