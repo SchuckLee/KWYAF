@@ -9,21 +9,13 @@ Accepted at AAAI 2025 🎉
 ### 🔧 Overview
 
 This repository contains the official PyTorch implementation of the **KWYAF** framework for event-based semantic segmentation.  
-
-🗓️ **Code and full documentation will be released in August or September 2025**. Stay tuned!
-
 If you have any questions or feedback, feel free to open an issue or contact us via email. 😊
 
 ---
 
 ### 📌 Update (Aug 17, 2025)
-
-- Added the core **dataset** and **model** modules.  
   - `dst/sequence` can be used following the reference implementation from [DSEC Sequence Dataset](https://github.com/uzh-rpg/DSEC/blob/main/scripts/dataset/sequence.py).  
-  - `model/segformer_build` includes model configuration settings. You may replace the default **MiT-B0 backbone** (used in the paper) with stronger variants. The `EncoderDecoder` class handles the feature processing pipeline.  
-
-⚠️ Please note: the authors are currently occupied with job applications and other work. A complete one-click reproduction of the results will be released later.  
-In the meantime, if you encounter any issues during reproduction, feel free to reach out for discussion!  
+  - `model/segformer_build` includes model configuration settings. You may replace the default **MiT-B0 backbone** (used in the paper) with stronger variants. The `EncoderDecoder` class handles the feature processing pipeline.
 
 
 
